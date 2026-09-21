@@ -1,0 +1,39 @@
+{
+  "destinations": [
+    {
+      "name": "Marrakech",
+      "region": "Marrakech-Safi",
+      "type": "imperial_city",
+      "highlights": [
+        "Jemaa el-Fna",
+        "Koutoubia",
+        "Medina"
+      ]
+    },
+    {
+      "name": "Fès",
+      "region": "Fès-Meknès",
+      "type": "medina"
+    },
+    {
+      "name": "Essaouira",
+      "region": "Marrakech-Safi",
+      "type": "coastal_city"
+    },
+    {
+      "name": "Merzouga",
+      "region": "Drâa-Tafilalet",
+      "type": "desert"
+    },
+    {
+      "name": "Chefchaouen",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "type": "mountain_city",
+      "highlights": [
+        "Medina",
+        "Kasbah",
+        "Blue streets"
+      ]
+    }
+  ]
+}
